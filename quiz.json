@@ -1,19 +1,79 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of political leaders throughout history.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who was the first US president?",
+      "answers": ["Washington", "Adams", "Jefferson"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who led the Soviet Union in WWII?",
+      "answers": ["Stalin", "Lenin", "Trotsky"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who was the British PM in WWII?",
+      "answers": ["Churchill", "Attlee", "Eden"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the first female PM of UK?",
+      "answers": ["Thatcher", "May", "Merkel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who led India to independence?",
+      "answers": ["Gandhi", "Nehru", "Patel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the first emperor of Rome?",
+      "answers": ["Augustus", "Caesar", "Nero"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the first Chancellor of Germany?",
+      "answers": ["Bismarck", "Adenauer", "Kohl"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the first black president of South Africa?",
+      "answers": ["Mandela", "Zuma", "Mbeki"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the longest-reigning British monarch?",
+      "answers": ["Victoria", "Elizabeth", "George"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who led China during the Cultural Revolution?",
+      "answers": ["Mao", "Deng", "Zhou"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the first female president of Brazil?",
+      "answers": ["Rousseff", "Lula", "Bolsonaro"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the leader of Cuba during the Cuban Missile Crisis?",
+      "answers": ["Castro", "Guevara", "Raul"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the first president of Turkey?",
+      "answers": ["Ataturk", "Inonu", "Demirel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the US president during the Civil War?",
+      "answers": ["Lincoln", "Grant", "Jackson"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the founder of modern Singapore?",
+      "answers": ["Lee", "Yew", "Tharman"],
       "correctAnswerIndex": 0
     }
   ]
